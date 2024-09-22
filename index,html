@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inside Sam Altman</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Inside Sam Altman</h1>
+        <p>Exploring the insights and thoughts of Sam Altman.</p>
+    </header>
+
+    <section id="latest-episodes">
+        <h2>Latest Episodes</h2>
+        <ul>
+            <li>
+                <h3>Episode 1: The Future of AI</h3>
+                <p>Release Date: YYYY-MM-DD</p>
+                <p>Summary of the episode.</p>
+                <a href="assets/episode-1.mp3">Listen here</a>
+            </li>
+            <li>
+                <h3>Episode 2: Startup Secrets</h3>
+                <p>Release Date: YYYY-MM-DD</p>
+                <p>Summary of the episode.</p>
+                <a href="assets/episode-2.mp3">Listen here</a>
+            </li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Inside Sam Altman is a podcast dedicated to exploring the mind and insights of one of the leading figures in tech. Join us as we unpack his thoughts on innovation, startups, and the future.</p>
+        <p>Host: Your Name</p>
+        <p>Contact: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Inside Sam Altman. All rights reserved.</p>
+    </footer>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+  
